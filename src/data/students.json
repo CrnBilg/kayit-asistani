@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ayse",
+    "name": "Ayşe Y. (Başarılı)",
+    "department": "Yazılım Mühendisliği",
+    "completedTerms": 6,
+    "gpa": 2.85,
+    "transcript": [
+      { "code": "SE 1105", "grade": "B+", "term": 1 },
+      { "code": "MATH 1131", "grade": "B", "term": 1 },
+      { "code": "TURK 1001", "grade": "A", "term": 1 },
+      { "code": "HIST 1001", "grade": "B", "term": 1 },
+      { "code": "SE 2224", "grade": "A-", "term": 3 },
+      { "code": "SE 2228", "grade": "B", "term": 3 },
+      { "code": "MATH 2280", "grade": "C+", "term": 4 },
+      { "code": "SE 3354", "grade": "B", "term": 5 },
+      { "code": "SE 3355", "grade": "B+", "term": 5 },
+      { "code": "SE 3318", "grade": "A", "term": 5 },
+      { "code": "SE 3308", "grade": "B-", "term": 5 }
+    ]
+  },
+  {
+    "id": "mert",
+    "name": "Mert K. (Sınamalı)",
+    "department": "Yazılım Mühendisliği",
+    "completedTerms": 6,
+    "gpa": 1.8,
+    "transcript": [
+      { "code": "SE 1105", "grade": "C", "term": 1 },
+      { "code": "MATH 1131", "grade": "D", "term": 1 },
+      { "code": "TURK 1001", "grade": "C", "term": 1 },
+      { "code": "HIST 1001", "grade": "C", "term": 1 },
+      { "code": "SE 2224", "grade": "D+", "term": 3 },
+      { "code": "SE 2228", "grade": "F", "term": 3 },
+      { "code": "MATH 2280", "grade": "F", "term": 4 },
+      { "code": "SE 3354", "grade": "C-", "term": 5 },
+      { "code": "SE 3355", "grade": "W", "term": 5 },
+      { "code": "SE 3318", "grade": "D", "term": 5 },
+      { "code": "SE 3308", "grade": "NA", "term": 5 }
+    ]
+  }
+]

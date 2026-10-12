@@ -1,0 +1,161 @@
+[
+  {
+    "code": "ENGR 4411", "name": "Sürdürülebilir Kalkınma İçin Mühendislik", "type": "Z",
+    "theory": 2, "practice": 0, "credit": 2, "ects": 3, "year": 4, "prerequisites": [],
+    "sections": [
+      { "no": 1, "instructor": "Dr. Öğr. Üyesi E. Kaya", "slots": [{ "day": "Pzt", "start": "09:00", "end": "11:00" }], "capacity": 120, "enrolled": 64 }
+    ]
+  },
+  {
+    "code": "ENGR 4451", "name": "Mühendislik Uygulamaları İçin Üretken Yapay Zeka", "type": "S",
+    "theory": 3, "practice": 0, "credit": 3, "ects": 6, "year": 4, "prerequisites": [],
+    "sections": [
+      { "no": 1, "instructor": "Doç. Dr. M. Demir", "slots": [{ "day": "Sal", "start": "13:00", "end": "16:00" }], "capacity": 40, "enrolled": 37 },
+      { "no": 2, "instructor": "Doç. Dr. M. Demir", "slots": [{ "day": "Per", "start": "09:00", "end": "12:00" }], "capacity": 40, "enrolled": 18 }
+    ]
+  },
+  {
+    "code": "SE 4458", "name": "Büyük Ölçekli Sistemler İçin Sistem Mimarisi", "type": "S",
+    "theory": 3, "practice": 0, "credit": 3, "ects": 6, "year": 4, "prerequisites": ["SE 3354"],
+    "sections": [
+      { "no": 1, "instructor": "Prof. Dr. A. Şahin", "slots": [{ "day": "Sal", "start": "14:00", "end": "17:00" }], "capacity": 35, "enrolled": 20 },
+      { "no": 2, "instructor": "Prof. Dr. A. Şahin", "slots": [{ "day": "Cum", "start": "13:00", "end": "16:00" }], "capacity": 35, "enrolled": 26 }
+    ]
+  },
+  {
+    "code": "SE 4498", "name": "Bitirme Projesi", "type": "Z",
+    "theory": 2, "practice": 2, "credit": 3, "ects": 8, "year": 4, "prerequisites": ["SE 3354"],
+    "sections": [
+      { "no": 1, "instructor": "Bölüm Öğretim Üyeleri", "slots": [{ "day": "Pzt", "start": "13:00", "end": "16:00" }], "capacity": 60, "enrolled": 30 }
+    ]
+  },
+  {
+    "code": "SE 4300", "name": "Staj II", "type": "Z", "internship": true,
+    "theory": 0, "practice": 0, "credit": 0, "ects": 5, "year": 4, "prerequisites": [],
+    "sections": [
+      { "no": 1, "instructor": "Staj Komisyonu", "slots": [], "capacity": 200, "enrolled": 71 }
+    ]
+  },
+  {
+    "code": "SE 4454", "name": "Bulut Bilişim", "type": "S",
+    "theory": 3, "practice": 0, "credit": 3, "ects": 6, "year": 4, "prerequisites": ["SE 3355"],
+    "sections": [
+      { "no": 1, "instructor": "Dr. Öğr. Üyesi K. Arslan", "slots": [{ "day": "Çar", "start": "09:00", "end": "12:00" }], "capacity": 30, "enrolled": 30 },
+      { "no": 2, "instructor": "Dr. Öğr. Üyesi K. Arslan", "slots": [{ "day": "Çar", "start": "13:00", "end": "16:00" }], "capacity": 30, "enrolled": 22 }
+    ]
+  },
+  {
+    "code": "SE 4460", "name": "Siber Güvenlik Temelleri", "type": "S",
+    "theory": 3, "practice": 0, "credit": 3, "ects": 6, "year": 4, "prerequisites": ["SE 3355"],
+    "sections": [
+      { "no": 1, "instructor": "Dr. Öğr. Üyesi S. Çelik", "slots": [{ "day": "Per", "start": "13:00", "end": "16:00" }], "capacity": 40, "enrolled": 12 }
+    ]
+  },
+  {
+    "code": "SE 4462", "name": "Mobil Uygulama Geliştirme", "type": "S",
+    "theory": 2, "practice": 2, "credit": 3, "ects": 6, "year": 4, "prerequisites": ["SE 2224"],
+    "sections": [
+      { "no": 1, "instructor": "Öğr. Gör. B. Aydın", "slots": [{ "day": "Cum", "start": "09:00", "end": "12:00" }], "capacity": 35, "enrolled": 34 }
+    ]
+  },
+  {
+    "code": "SE 4466", "name": "Makine Öğrenmesi", "type": "S",
+    "theory": 3, "practice": 0, "credit": 3, "ects": 6, "year": 4, "prerequisites": ["MATH 2280"],
+    "sections": [
+      { "no": 1, "instructor": "Doç. Dr. H. Öztürk", "slots": [{ "day": "Pzt", "start": "13:00", "end": "16:00" }], "capacity": 40, "enrolled": 25 },
+      { "no": 2, "instructor": "Doç. Dr. H. Öztürk", "slots": [{ "day": "Per", "start": "13:00", "end": "16:00" }], "capacity": 40, "enrolled": 39 }
+    ]
+  },
+  {
+    "code": "SE 4470", "name": "Oyun Geliştirme", "type": "S",
+    "theory": 2, "practice": 2, "credit": 3, "ects": 6, "year": 4, "prerequisites": ["SE 2224"],
+    "sections": [
+      { "no": 1, "instructor": "Öğr. Gör. C. Yıldız", "slots": [{ "day": "Çar", "start": "13:00", "end": "16:00" }], "capacity": 30, "enrolled": 9 }
+    ]
+  },
+  {
+    "code": "SE 4474", "name": "Doğal Dil İşleme", "type": "S",
+    "theory": 3, "practice": 0, "credit": 3, "ects": 6, "year": 4, "prerequisites": ["MATH 2280"],
+    "sections": [
+      { "no": 1, "instructor": "Doç. Dr. H. Öztürk", "slots": [{ "day": "Per", "start": "09:00", "end": "12:00" }], "capacity": 30, "enrolled": 28 }
+    ]
+  },
+  {
+    "code": "SE 3354", "name": "Yazılım Mühendisliği", "type": "Z",
+    "theory": 3, "practice": 0, "credit": 3, "ects": 6, "year": 3, "prerequisites": ["SE 2224"],
+    "sections": [
+      { "no": 1, "instructor": "Prof. Dr. A. Şahin", "slots": [{ "day": "Sal", "start": "09:00", "end": "12:00" }], "capacity": 60, "enrolled": 41 }
+    ]
+  },
+  {
+    "code": "SE 3355", "name": "Bilgisayar Ağları", "type": "Z",
+    "theory": 3, "practice": 0, "credit": 3, "ects": 6, "year": 3, "prerequisites": [],
+    "sections": [
+      { "no": 1, "instructor": "Dr. Öğr. Üyesi S. Çelik", "slots": [{ "day": "Çar", "start": "09:00", "end": "12:00" }], "capacity": 60, "enrolled": 45 }
+    ]
+  },
+  {
+    "code": "SE 3318", "name": "Veritabanı Sistemleri", "type": "Z",
+    "theory": 3, "practice": 0, "credit": 3, "ects": 6, "year": 3, "prerequisites": [],
+    "sections": [
+      { "no": 1, "instructor": "Dr. Öğr. Üyesi K. Arslan", "slots": [{ "day": "Per", "start": "09:00", "end": "12:00" }], "capacity": 60, "enrolled": 50 }
+    ]
+  },
+  {
+    "code": "SE 3308", "name": "İşletim Sistemleri", "type": "Z",
+    "theory": 3, "practice": 0, "credit": 3, "ects": 6, "year": 3, "prerequisites": [],
+    "sections": [
+      { "no": 1, "instructor": "Doç. Dr. M. Demir", "slots": [{ "day": "Pzt", "start": "09:00", "end": "12:00" }], "capacity": 60, "enrolled": 52 }
+    ]
+  },
+  {
+    "code": "SE 2224", "name": "Nesne Yönelimli Programlama", "type": "Z",
+    "theory": 3, "practice": 2, "credit": 4, "ects": 6, "year": 2, "prerequisites": ["SE 1105"],
+    "sections": [
+      { "no": 1, "instructor": "Öğr. Gör. B. Aydın", "slots": [{ "day": "Sal", "start": "13:00", "end": "16:00" }], "capacity": 50, "enrolled": 44 }
+    ]
+  },
+  {
+    "code": "SE 2228", "name": "Veri Yapıları ve Algoritmalar", "type": "Z",
+    "theory": 3, "practice": 0, "credit": 3, "ects": 6, "year": 2, "prerequisites": ["SE 1105"],
+    "sections": [
+      { "no": 1, "instructor": "Prof. Dr. N. Koç", "slots": [{ "day": "Çar", "start": "13:00", "end": "16:00" }], "capacity": 50, "enrolled": 48 },
+      { "no": 2, "instructor": "Prof. Dr. N. Koç", "slots": [{ "day": "Cum", "start": "09:00", "end": "12:00" }], "capacity": 50, "enrolled": 20 }
+    ]
+  },
+  {
+    "code": "MATH 2280", "name": "Olasılık ve İstatistik", "type": "Z",
+    "theory": 3, "practice": 0, "credit": 3, "ects": 6, "year": 2, "prerequisites": ["MATH 1131"],
+    "sections": [
+      { "no": 1, "instructor": "Dr. Öğr. Üyesi Z. Polat", "slots": [{ "day": "Cum", "start": "13:00", "end": "16:00" }], "capacity": 70, "enrolled": 60 }
+    ]
+  },
+  {
+    "code": "SE 1105", "name": "Programlamaya Giriş", "type": "Z",
+    "theory": 3, "practice": 2, "credit": 4, "ects": 6, "year": 1, "prerequisites": [],
+    "sections": [
+      { "no": 1, "instructor": "Öğr. Gör. C. Yıldız", "slots": [{ "day": "Pzt", "start": "13:00", "end": "16:00" }], "capacity": 80, "enrolled": 70 }
+    ]
+  },
+  {
+    "code": "MATH 1131", "name": "Kalkülüs I", "type": "Z",
+    "theory": 4, "practice": 0, "credit": 4, "ects": 6, "year": 1, "prerequisites": [],
+    "sections": [
+      { "no": 1, "instructor": "Dr. Öğr. Üyesi Z. Polat", "slots": [{ "day": "Sal", "start": "09:00", "end": "12:00" }], "capacity": 80, "enrolled": 66 }
+    ]
+  },
+  {
+    "code": "TURK 1001", "name": "Türk Dili I", "type": "Z", "online": true,
+    "theory": 2, "practice": 0, "credit": 2, "ects": 2, "year": 1, "prerequisites": [],
+    "sections": [
+      { "no": 1, "instructor": "Çevrimiçi Eğitim Merkezi", "slots": [], "capacity": 500, "enrolled": 310 }
+    ]
+  },
+  {
+    "code": "HIST 1001", "name": "Atatürk İlkeleri ve İnkılap Tarihi I", "type": "Z", "online": true,
+    "theory": 2, "practice": 0, "credit": 2, "ects": 2, "year": 1, "prerequisites": [],
+    "sections": [
+      { "no": 1, "instructor": "Çevrimiçi Eğitim Merkezi", "slots": [], "capacity": 500, "enrolled": 295 }
+    ]
+  }
+]
