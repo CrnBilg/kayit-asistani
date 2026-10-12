@@ -59,3 +59,4 @@ Yayınlanmış sürüm: https://claude.ai/artifact/Q4zTjmCYwPa8BSUeFpVm6G. Linki
 - [Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği](https://mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=22754&mevzuatTertip=5&mevzuatTur=UniversiteYonetmeligi): ön koşul, F/W/U/NA tekrar zorunluluğu
 
 > Ders kataloğu ve öğrenciler demo verisidir; gerçek OBS'ye bağlanılmaz.
+> CERENS
